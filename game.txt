@@ -1,0 +1,19 @@
+GUESS THE NUMBER!
+──────────────────────────────
+Guess a number between 1 and 10.
+You have 3 attempts!
+
+Attempt 1/3: Enter a number between 1 and 10: 1
+Too low!
+
+Attempt 2/3: Enter a number between 1 and 10: 4
+Too high!
+
+Attempt 3/3: Enter a number between 1 and 10: 
+Error: A guess is required.
+
+
+GAME OVER!
+The secret number was 3.
+
+Thanks for playing!
